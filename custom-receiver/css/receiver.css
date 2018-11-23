@@ -1,23 +1,6 @@
-
-
-background {
-  background: center no-repeat url(https://i.imgur.com/e1jIDTs.png);
+.cast-media-player {
+  --theme-hue: 180;
+  --progress-color: rgb(0, 255, 255);
+  --background-image: url('https://i.imgur.com/xtDgL59.png');
 }
 
-.logo {
-  background-image: url(https://i.imgur.com/xtDgL59.png);
-}
-
-.progressBar {
-  background-color: rgb(118, 255, 3);
-}
-
-.splash {
-  background-image: url(https://i.imgur.com/jHWshue.png);
-  background-size: 100%;
-}
-
-.watermark {
-  background-image: url(https://i.imgur.com/xtDgL59.png);
-  background-size: 57px 57px;
-}
