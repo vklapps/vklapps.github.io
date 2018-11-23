@@ -37,6 +37,6 @@ playerManager.addEventListener(cast.framework.events.category.CORE,
 
 // Set the player to start playback as soon as there are five seconds of
 // media content buffered. Default is 10.
-playbackConfig.autoResumeDuration = 5;
+// playbackConfig.autoResumeDuration = 5;
 
 context.start();
