@@ -1,5 +1,5 @@
 .cast-media-player {
   --theme-hue: 180;
-  --progress-color: rgb(0, 255, 255);
+  --progress-color: rgb(118, 255, 3);
   --background-image: url('res/background-image.jpg');
 }
