@@ -2,8 +2,13 @@ body {
   --playback-logo-image: url('https://i.imgur.com/xtDgL59.png');
 }
 cast-media-player {
+  --theme-hue: 180;
   --progress-color: rgb(118, 255, 3);
   --splash-image: url('https://i.imgur.com/jHWshue.png');
   --background-image: url('https://i.imgur.com/e1jIDTs.png');
-  --splash-size: cover;
+  --splash-size: 100%;
+  --logo-repeat: no-repeat;
+  --logo-image: url('https://i.imgur.com/xtDgL59.png');
+  --watermark: url('https://i.imgur.com/xtDgL59.png');
+  --watermark-size: 57px 57px;
 }
