@@ -1,9 +1,10 @@
 body {
-  --playback-logo-image: url(https://i.imgur.com/xtDgL59.png);
+  --playback-logo-image: url('https://i.imgur.com/xtDgL59.png');
 }
 cast-media-player {
   --theme-hue: 100;
   --progress-color: rgb(118, 255, 3);
-  --splash-image: url(https://i.imgur.com/jHWshue.png);
+  --splash-image: url('https://i.imgur.com/jHWshue.png');
+  --background-image: url('https://i.imgur.com/e1jIDTs.png');
   --splash-size: cover;
 }
