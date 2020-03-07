@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(https://i.imgur.com/e1jIDTs.png);
+  background: center no-repeat url(res/background.png);
 }
 
 .logo {
-  background-image: url(https://i.imgur.com/xtDgL59.png);
+  background-image: url(res/logo.png);
 }
 
 .progressBar {
@@ -11,11 +11,11 @@
 }
 
 .splash {
-  background-image: url(https://i.imgur.com/jHWshue.png);
+  background-image: url(res/splash.png);
   background-size: 100%;
 }
 
 .watermark {
-  background-image: url(https://i.imgur.com/xtDgL59.png);
+  background-image: url(res/watermark.png);
   background-size: 57px 57px;
 }
